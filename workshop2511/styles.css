@@ -1,0 +1,41 @@
+header{
+    height: 100px;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+}
+
+.loginbutton{
+    position: absolute;
+    right: 30px;
+    top:30px;
+    width: 100px;
+    height: 50px;
+    background: darkslategrey;
+    color: white;
+    border: none;
+}
+.login{
+    display: none;
+    border: 1px black;
+    margin: auto;
+    width: 400px;
+}
+
+.formProduct {
+    display: none;
+}
+h1 {
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.productForSale
+{
+    margin: 20px;
+    border: 5px dotted #999;
+    border-radius: 0;
+    display: block;
+    width: 200px;
+}
+
